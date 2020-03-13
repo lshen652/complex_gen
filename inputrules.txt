@@ -1,0 +1,4 @@
+CHC1(a1) + CLC1(b) -> CHC1(a1!1).CLC1(b!1) kon_chc_chc_pm1
+CLC1(a) + ENT(a) -> CLC1(a!1).ENT(a!1) kon_chc_chc_pm2
+EDE1(a) + ENT(lb) -> EDE1(a!1).ENT(lb!1) kon_chc_chc_pm3
+EDE1(c) + CHC1(b1) -> EDE1(c!1).CHC1(b1!1) kon_chc_chc_pm4

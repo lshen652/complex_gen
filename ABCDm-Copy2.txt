@@ -1,0 +1,4 @@
+A(b,c,d) #Assume these are the light chain sites that bind to sla2
+	B(a,c,d)
+	C(a,b,d)
+	D(a,c,b)

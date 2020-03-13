@@ -1,0 +1,4 @@
+    A(b,c,d) 
+	B(a,c,d)
+	C(a,b,d)
+	D(a,c,b)

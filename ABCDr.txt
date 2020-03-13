@@ -1,0 +1,6 @@
+A(b) + B(a) -> A(b!1).B(a!1) kon_chc_chc_pm1
+A(c) + C(a) -> A(c!1).C(a!1) kon_chc_chc_pm2
+D(a) + A(d) -> D(a!1).A(d!1) kon_chc_chc_pm3
+B(c) + C(b) -> B(c!1).C(b!1) kon_chc_chc_pm4
+B(d) + D(b) -> B(d!1).D(b!1) kon_chc_chc_pm5
+C(d) + D(c) -> C(d!1).D(c!1) kon_chc_chc_pm6

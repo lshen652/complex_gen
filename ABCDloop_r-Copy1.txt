@@ -1,0 +1,6 @@
+A(b) + B(a) <-> A(b!1).B(a!1) konAB,koffT
+#A(c) + C(a) <-> A(c!1).C(a!1) konAC,koffT
+#D(a) + A(d) <-> D(a!1).A(d!1) konAD,koffT
+B(c) + C(b) <-> B(c!1).C(b!1) konBC,koffT
+#B(d) + D(b) <-> B(d!1).D(b!1) konBD,koffT
+C(d) + D(c) <-> C(d!1).D(c!1) konCD,koffT

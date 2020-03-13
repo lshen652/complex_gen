@@ -1,0 +1,4 @@
+CHC1(a1,a2,a3,b1,b2,b3,c1,c2,c3) #Assume these are the light chain sites that bind to sla2
+	CLC1(a,b)
+	EDE1(a,a,b,c)
+	ENT(a,d,b,lb)
